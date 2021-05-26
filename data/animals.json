@@ -101,9 +101,9 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Bobby",
+      "species": "Tiger",
+      "diet": "carnivore",
       "personalityTraits": [
         "hungry"
       ],
